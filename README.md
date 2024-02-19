@@ -4,9 +4,8 @@
 
 - 🔭 I'm working as a full-stack blockchain developer.
 - 📚 I’m currently learning rust.
-- 💬 Ask me about ... Dex, Defi, SmartContracts, Web3 
+- 💬 Ask me about ... Dex, Defi, SmartContracts, Web3
 - 📫 How to reach me: guptavishesh98@gmail.com
-
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -21,6 +20,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" 
+ height="40" alt="solidity logo"/>
+ <img width="12" />    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" alt="express logo"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+height="40" alt="mongo logo"/>
+<img width="12" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" 
+height="40" alt="hardhat logo"/>
+<img width="12" />
+<img src="https://main--startling-malabi-7ac7b7.netlify.app/static/media/ethers-logo.eaa073a1fcc0fc618c45.png" 
+height="40" alt="hardhat logo"/>
+<img width="12" />
 </div>
-
-
