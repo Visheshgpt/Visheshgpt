@@ -31,7 +31,10 @@ height="40" alt="mongo logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" 
 height="40" alt="hardhat logo"/>
 <img width="12" />
-<img src="https://main--startling-malabi-7ac7b7.netlify.app/static/media/ethers-logo.eaa073a1fcc0fc618c45.png" 
-height="40" alt="hardhat logo"/>
+<img src="https://assets-global.website-files.com/6433e6f821ae13dd37394322/64393ec631a32b4da0ee030c_ethersjs-p-2000.png" 
+height="40" alt="etherjs logo"/>
+<img width="12" />
+<img src="https://wagmi.sh/logo-dark.svg" 
+height="40" alt="wagmi logo"/>
 <img width="12" />
 </div>
