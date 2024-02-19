@@ -38,3 +38,6 @@ height="40" alt="etherjs logo"/>
 height="40" alt="wagmi logo"/>
 <img width="12" />
 </div>
+
+
+<img src="https://raw.githubusercontent.com/Visheshgpt/Visheshgpt/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
