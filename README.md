@@ -272,7 +272,7 @@ I'm open to **senior backend**, **distributed systems**, and **blockchain infras
   <img src="https://img.shields.io/badge/Email_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=0D1117&color=00D9FF"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/vishesh-gupta">
+<a href="https://linkedin.com/in/vishesh-gupta-298aab1b0">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0D1117&color=00D9FF"/>
 </a>
 
