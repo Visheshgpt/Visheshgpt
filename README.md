@@ -241,13 +241,20 @@ Cloud-native platform for on-demand provisioning of private blockchain networks 
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Visheshgpt&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=0F3460&icon_color=00D9FF&title_color=00D9FF&text_color=8B949E&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visheshgpt&layout=compact&theme=github_dark&bg_color=0D1117&border_color=0F3460&title_color=00D9FF&text_color=8B949E&langs_count=8&hide=html,css"/>
+<!-- ✅ Streak stats — demolab instance, reliably hosted -->
+<img src="https://streak-stats.demolab.com?user=Visheshgpt&theme=github-dark-blue&background=0D1117&border=0F3460&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&stroke=0D1117" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Visheshgpt&theme=github-dark-blue&background=0D1117&border=0F3460&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=8B949E&sideLabels=8B949E&dates=8B949E"/>
+<!-- ✅ Profile summary cards — separate reliable instance -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Visheshgpt&theme=github_dark" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Visheshgpt&theme=github_dark" height="160"/>
+
+<br/><br/>
+
+<!-- ✅ Activity graph — separate service -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Visheshgpt&bg_color=0D1117&color=00D9FF&line=0F3460&point=00D9FF&area=true&area_color=0F3460&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
