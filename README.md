@@ -211,7 +211,7 @@ Multi-product DeFi suite with **$1M+ TVL** under management.
 </details>
 
 <details>
-<summary><b>🟣 BaaS Orchestration Platform &nbsp;·&nbsp; Flexsin Technology (2019–2022)</b></summary>
+<summary><b>🟣 BaaS Orchestration Platform &nbsp;·&nbsp; Flexsin Technology (2020–2022)</b></summary>
 <br/>
 
 Cloud-native platform for on-demand provisioning of private blockchain networks — architecturally equivalent to a mini EKS control plane.
